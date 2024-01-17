@@ -1,0 +1,27 @@
+# Hi there, I'm vallary! 
+
+## About Me
+
+- I'm a budding developer based in Kenya, currently exploring the world of Python and web development.
+- I'm a huge fan of open-source projects and love contributing to communities whenever I can.
+- Outside of coding, I enjoy hiking, gaming, and experimenting with new recipes in the kitchen.
+
+## Programming Interests
+
+- Python is my current obsession, and I'm fascinated by its versatility in data analysis, web development, and automation.
+- I'm keen to learn more about frameworks like Django and Flask to build web applications.
+- I'm also intrigued by machine learning and hope to explore it further in the future.
+
+## Goals for This Course
+
+- Master the fundamentals of Git and GitHub to confidently collaborate on projects.
+- Solidify my Python skills and build practical projects to showcase my abilities.
+- Connect with other developers, learn from their experiences, and contribute to open-source projects.
+- Gain a solid foundation to pursue a career in web development or data science.
+
+## Looking forward to learning and growing with you all! 
+
+
+
+
+
